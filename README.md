@@ -1,1 +1,1 @@
-Code snippets for various languages, comments at top should describe how they were tested (usually in some online playground).
+Code snippets for various languages and frameworks, comments at top should describe how they were tested (usually in some online playground).
